@@ -11,5 +11,5 @@ Features
 - Select and search songs in a playlist.
 - Cover art and ID3 tags using : JavaScript ID3 Reader.
 - Shuffle and Repeat options.
-- No internet dependencies – works just as well if run locally offline.
+- Once the page is loaded, it doesn't need internet connetion works even without internet.
 
